@@ -1,0 +1,6 @@
+c:\users\amy\documents\visual studio 2015\Projects\Loopy Planet - Amy Yi\Loopy Planet - Amy Yi\bin\Debug\Loopy Planet - Amy Yi.exe.config
+c:\users\amy\documents\visual studio 2015\Projects\Loopy Planet - Amy Yi\Loopy Planet - Amy Yi\obj\Debug\Loopy Planet - Amy Yi.csprojResolveAssemblyReference.cache
+c:\users\amy\documents\visual studio 2015\Projects\Loopy Planet - Amy Yi\Loopy Planet - Amy Yi\bin\Debug\Loopy Planet - Amy Yi.exe
+c:\users\amy\documents\visual studio 2015\Projects\Loopy Planet - Amy Yi\Loopy Planet - Amy Yi\bin\Debug\Loopy Planet - Amy Yi.pdb
+c:\users\amy\documents\visual studio 2015\Projects\Loopy Planet - Amy Yi\Loopy Planet - Amy Yi\obj\Debug\Loopy Planet - Amy Yi.exe
+c:\users\amy\documents\visual studio 2015\Projects\Loopy Planet - Amy Yi\Loopy Planet - Amy Yi\obj\Debug\Loopy Planet - Amy Yi.pdb
